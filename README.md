@@ -1,2 +1,2 @@
-# alejandrorosa.github.io
+# alejandrorosa
 Mi página web
